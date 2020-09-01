@@ -13,7 +13,7 @@ students = ['Tim Jones', 'Tom Smith', 'Sophie Johnson', 'Antoin Miller']
 
 puts my_collect(students){ |name| puts name.split(" ").first }
 
-my_collect(students) do |student|
-      student.split(" ").first
-    end
-    expect(students).to eq(['Tim Jones', 'Tom Smith', 'Sophie Johnson', 'Antoin Miller'])
+#my_collect(students) do |student|
+     # student.split(" ").first
+    #end
+    #expect(students).to eq(['Tim Jones', 'Tom Smith', 'Sophie Johnson', 'Antoin Miller'])
