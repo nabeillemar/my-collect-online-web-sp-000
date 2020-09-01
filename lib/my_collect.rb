@@ -9,4 +9,4 @@ end
 collection
 end
 
-my_collect[ ]
+puts my_collect[ ]
