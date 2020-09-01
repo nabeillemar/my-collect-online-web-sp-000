@@ -9,6 +9,4 @@ end
 collection
 end
 
-students = ['Tim Jones', 'Tom Smith', 'Sophie Johnson', 'Antoin Miller']
-
-puts my_collect(students){|name| puts name.split(" ").first}
+puts my_collect(['Tim Jones', 'Tom Smith', 'Sophie Johnson', 'Antoin Miller']){|students| students.split(" ").first}
