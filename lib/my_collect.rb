@@ -9,4 +9,4 @@ end
 collection
 end
 
-puts my_collect[ ]
+puts my_collect["RUBY", "JAVASCRIPT", "PYTHON", "OBJECTIVE-C"]
