@@ -6,5 +6,6 @@ when counter < array.length
   yield(array[counter])
   counter += 1
 end
+end
 collection
 end
