@@ -8,7 +8,7 @@ while counter < array.length
 end
 collection
 end
-empty_array = ["john", "Nabeil", "Tim"]
+empty_array = []
 
 puts my_collect(empty_array){ |name| puts "Hi, #{name}" }
 
