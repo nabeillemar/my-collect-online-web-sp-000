@@ -10,3 +10,4 @@ collection
 end
 
 puts my_collect(['Tim Jones', 'Tom Smith', 'Sophie Johnson', 'Antoin Miller']){|students| students.split(" ").first}
+puts my_collect
