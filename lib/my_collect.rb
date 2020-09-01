@@ -9,3 +9,4 @@ end
 collection
 end
 
+my_collect[]
