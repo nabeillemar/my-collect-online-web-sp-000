@@ -8,5 +8,5 @@ while counter < array.length
 end
 collection
 end
-
+empty_array = []
 my_collect(empty_array)
