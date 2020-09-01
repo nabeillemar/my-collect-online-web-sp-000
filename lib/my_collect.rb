@@ -8,6 +8,6 @@ while counter < array.length
 end
 collection
 end
-
-puts my_collect(['Tim Jones', 'Tom Smith', 'Sophie Johnson', 'Antoin Miller']){|students| students.split(" ").first}
+student = ['Tim Jones', 'Tom Smith', 'Sophie Johnson', 'Antoin Miller']
+puts my_collect(student){|students| students.split(" ").first}
 puts my_collect
