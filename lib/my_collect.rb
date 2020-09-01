@@ -8,3 +8,4 @@ while counter < array.length
 end
 collection
 end
+
