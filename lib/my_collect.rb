@@ -8,6 +8,6 @@ while counter < array.length
 end
 collection
 end
-empty_array = []
+empty_array = ["john", "Nabeil", "Tim"]
 
 puts my_collect(empty_array)
