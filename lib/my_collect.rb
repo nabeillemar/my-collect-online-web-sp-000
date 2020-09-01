@@ -1,3 +1,4 @@
 def my_collect(array)
 counter = 0 
-when counter
+when counter < array.length 
+  
