@@ -10,6 +10,6 @@ collection
 end
 empty_array = []
 
-puts my_collect(empty_array){ |name| puts "Hi, #{name}" }
+puts my_collect(["Tim", "Tom", "Jim"]) { |name| puts "Hi, #{name}" }
 
 #hello(["Tim", "Tom", "Jim"]) { |name| puts "Hi, #{name}" }
