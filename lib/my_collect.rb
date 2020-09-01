@@ -4,4 +4,5 @@ collection = []
 when counter < array.length 
   collection <<
   yield(array[counter])
+  counter += 1
   
