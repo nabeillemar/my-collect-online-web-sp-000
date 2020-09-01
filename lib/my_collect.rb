@@ -9,4 +9,5 @@ end
 collection
 end
 empty_array = []
+
 puts my_collect(empty_array)
