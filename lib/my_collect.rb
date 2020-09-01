@@ -3,5 +3,5 @@ counter = 0
 collection = []
 when counter < array.length 
   collection <<
-  yield
+  yield(array[counter])
   
