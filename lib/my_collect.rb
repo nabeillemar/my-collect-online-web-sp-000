@@ -9,4 +9,4 @@ end
 collection
 end
 
-my_collect["tim, nabeil, john"]
+my_collect("tim, nabeil, john")
