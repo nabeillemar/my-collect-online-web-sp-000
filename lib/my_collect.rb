@@ -8,4 +8,5 @@ while counter < array.length
 end
 collection
 end
-my_collect["RUBY", "JAVASCRIPT", "PYTHON", "OBJECTIVE-C"]
+
+my_collect("RUBY", "JAVASCRIPT", "PYTHON", "OBJECTIVE-C")
